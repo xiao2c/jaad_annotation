@@ -1,6 +1,6 @@
 # jaad_annotation
-Python script to generate annotated videos based on JAAD Dataset
-This script should be used with JAAD Dataset API
+Python script to generate annotated videos based on JAAD Dataset.  
+This script should be used with JAAD Dataset API.  
 https://github.com/ykotseruba/JAAD
 
 ## Requirement
